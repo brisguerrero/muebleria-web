@@ -10,9 +10,7 @@ export function Footer() {
               <rect width="32" height="32" rx="8" fill="#e05c1a"/>
               <path d="M6 24V14l10-8 10 8v10H20v-7h-8v7H6z" fill="#fff" opacity="0.9"/>
             </svg>
-            <div>
-              <img src="https://drive.google.com/thumbnail?id=1NRz61buwntf9QKG-xga0W_ahjfFavRm3&sz=w800"/>
-            </div>
+            
           </div>
           <p className="footer-desc">
             Todo para tu hogar a crédito y contado. Calidad, precio y buen servicio desde Tehuacán, Puebla.
